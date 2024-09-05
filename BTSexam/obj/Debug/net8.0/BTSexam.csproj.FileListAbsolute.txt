@@ -1,0 +1,14 @@
+C:\Users\Mendel\source\repos\BTSexam\BTSexam\obj\Debug\net8.0\BTSexam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mendel\source\repos\BTSexam\BTSexam\obj\Debug\net8.0\BTSexam.AssemblyInfoInputs.cache
+C:\Users\Mendel\source\repos\BTSexam\BTSexam\obj\Debug\net8.0\BTSexam.AssemblyInfo.cs
+C:\Users\Mendel\source\repos\BTSexam\BTSexam\obj\Debug\net8.0\BTSexam.csproj.CoreCompileInputs.cache
+C:\Users\Mendel\source\repos\BTSexam\BTSexam\bin\Debug\net8.0\BTSexam.exe
+C:\Users\Mendel\source\repos\BTSexam\BTSexam\bin\Debug\net8.0\BTSexam.deps.json
+C:\Users\Mendel\source\repos\BTSexam\BTSexam\bin\Debug\net8.0\BTSexam.runtimeconfig.json
+C:\Users\Mendel\source\repos\BTSexam\BTSexam\bin\Debug\net8.0\BTSexam.dll
+C:\Users\Mendel\source\repos\BTSexam\BTSexam\bin\Debug\net8.0\BTSexam.pdb
+C:\Users\Mendel\source\repos\BTSexam\BTSexam\obj\Debug\net8.0\BTSexam.dll
+C:\Users\Mendel\source\repos\BTSexam\BTSexam\obj\Debug\net8.0\refint\BTSexam.dll
+C:\Users\Mendel\source\repos\BTSexam\BTSexam\obj\Debug\net8.0\BTSexam.pdb
+C:\Users\Mendel\source\repos\BTSexam\BTSexam\obj\Debug\net8.0\BTSexam.genruntimeconfig.cache
+C:\Users\Mendel\source\repos\BTSexam\BTSexam\obj\Debug\net8.0\ref\BTSexam.dll
